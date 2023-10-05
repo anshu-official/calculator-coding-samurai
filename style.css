@@ -1,0 +1,49 @@
+.text-center{
+    text-align: center;
+}
+.bg-red{
+    background:blue;
+}
+.mx-center{
+    margin:auto
+} 
+.button{
+    padding: 10px;
+    margin:0 3px;
+    border: 2px solid black;
+    border-radius: 6px;
+    cursor:pointer;
+    width: 46px;
+    background: #e3dede; 
+}
+.flex{
+    display:flex;
+}
+ .flex-col{
+    flex-direction: column;
+ }
+.item-center{
+   align-items: center; 
+}
+.row{
+    margin:5px;
+}
+.row input{
+    margin: 5px;
+    padding: 10px 20px;
+    border: 2px solid black;
+    border-radius: 6px;
+}
+.calci {
+    width: 300px; 
+    margin: 0 auto; 
+    padding: 20px; 
+    background: #696767; 
+    border: 1px solid #000; 
+    border-radius: 10px; 
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); 
+    text-align: center; 
+}
+.input{
+    background-color: #eae2e2;
+}
